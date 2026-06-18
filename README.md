@@ -6,6 +6,8 @@
 
 ### Tech Stack
 
+**Testing** — Pytest · Robot Framework · Playwright · Appium · Requests · Allure
+
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,docker,gitlab,redis,git,linux,pycharm)](https://skillicons.dev)
 
 ### Projects
