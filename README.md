@@ -6,7 +6,7 @@
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,docker,gitlab,redis,git,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,docker,gitlab,redis,git,linux,pycharm)](https://skillicons.dev)
 
 ### Projects
 
